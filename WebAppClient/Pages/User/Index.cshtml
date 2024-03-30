@@ -1,0 +1,81 @@
+﻿@page
+@model WebAppClient.Pages.User.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List User</h1>
+
+<p>
+    <h5>Create User</h5>
+    <a class="btn btn-primary" asp-page="Create">Create New</a>
+</p>
+<br />
+<div>
+    <h5>Search List Users</h5>
+    <form class="form-group" method="post">
+        <label class="control-label col-sm-1">Username:</label>
+        <input class="form-control" name="username" type="text" value="" /><br />
+        <label class="control-label col-sm-1">Email:</label>
+        <input class="form-control" name="email" type="text" value="" />
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </form>
+</div>
+<br />
+<hr />
+<table class="table table-primary table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].Role)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User[0].Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.User)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Username)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Role)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    <div class="form-group">
+                        <a class="btn btn-primary" asp-page="./Edit" asp-route-id="@item.Id">Edit</a>
+                        <a class="btn btn-primary" asp-page="./Details" asp-route-id="@item.Id">Details</a>
+                    </div>
+                    <hr />
+                    <div>
+                        <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@item.Id">Deactivate</a>
+                        <a class="btn btn-success" asp-page="./Activate" asp-route-id="@item.Id">Activate</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

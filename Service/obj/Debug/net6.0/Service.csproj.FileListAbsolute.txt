@@ -1,0 +1,57 @@
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.deps.json
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.pdb
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\DataAccessObject.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Repository.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Repository.pdb
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\DataAccessObject.pdb
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\refint\Service.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.pdb
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\ref\Service.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.deps.json
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.pdb
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\DataAccessObject.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\Repository.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\Repository.pdb
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\bin\Debug\net6.0\DataAccessObject.pdb
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\refint\Service.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.pdb
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\Service\obj\Debug\net6.0\ref\Service.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.deps.json
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Service.pdb
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\DataAccessObject.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Repository.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\Repository.pdb
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\bin\Debug\net6.0\DataAccessObject.pdb
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.csproj.Up2Date
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\refint\Service.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\Service.pdb
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\Service\obj\Debug\net6.0\ref\Service.dll

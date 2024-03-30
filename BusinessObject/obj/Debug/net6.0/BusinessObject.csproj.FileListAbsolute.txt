@@ -1,0 +1,42 @@
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\KY9_Spring\PRN231\BAI TAP CUA NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\KY9_Spring\PRN231\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\KY9_Spring\PRN231\BT NGUYEN\Asignment_2_SE160027\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

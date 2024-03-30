@@ -1,0 +1,72 @@
+﻿@page
+@model WebAppClient.Pages.Post.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List Post</h1>
+
+<p>
+    <h5>Create Post</h5>
+    <a asp-page="Create">Create New</a>
+</p>
+<br />
+<div>
+    <h3>Search List Posts</h3>
+    <form class="form-group" method="post">
+        <label class="control-label col-sm-1">Title:</label>
+        <input class="form-control" name="title" type="text" value="" /><br />
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </form>
+</div>
+<br />
+<hr />
+<table class="table table-warning table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Post[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Post[0].Content)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Post[0].PublishedAt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Post[0].Author)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Post[0].Category)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Post) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PublishedAt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                <a class="btn btn-primary" asp-page="./Edit" asp-route-id="@item.Id">Edit</a> 
+                <a class="btn btn-primary" asp-page="./Details" asp-route-id="@item.Id">Details</a> 
+                <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
